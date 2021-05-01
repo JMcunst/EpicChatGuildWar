@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357487157508",
+    "project_id": "epicsevenguildwar",
+    "storage_bucket": "epicsevenguildwar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357487157508:android:af3c93f52617d1e1477051",
+        "android_client_info": {
+          "package_name": "coms.example.epicchatagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357487157508-rt7o5hrgth02p6lood0i5o3ir847k65d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVzlc2G2Pu1AydBt9ayYEOySojdxFf9_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357487157508-rt7o5hrgth02p6lood0i5o3ir847k65d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
